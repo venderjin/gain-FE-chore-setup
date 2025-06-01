@@ -1,4 +1,7 @@
-### GAIN
+### GAIN: chore/setup
+
+    - Organizaiton 에서 fork 받아 다시 개발 예정
+    - 해당 레포지토리는 환경셋팅으로 완료
 
 ## 주요 기능
 
